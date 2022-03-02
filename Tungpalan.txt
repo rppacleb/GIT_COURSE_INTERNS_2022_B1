@@ -1,0 +1,5 @@
+Paul Brian V. Tungpalan
+Our Lady of Fatima University
+No ID No Entry
+Push - GIT ADD, GIT COMMIT - M '', GIT Push
+Pull - GIT ADD, GIT COMMIT - M '', GIT Pull
