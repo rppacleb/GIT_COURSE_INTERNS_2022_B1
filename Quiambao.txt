@@ -1,0 +1,12 @@
+Name: Josiah Baines E. Quiambao
+School: Our Lady of Fatima University Antipolo 
+Motto: you miss every shot you don't take
+talent :guitar, photography
+steps in pull and push:
+1. git add .
+2. git commit -m 
+3. git pull 
+4. fix conflict if occur 
+5. git add . 
+6. git commit -m 
+7. git push 
