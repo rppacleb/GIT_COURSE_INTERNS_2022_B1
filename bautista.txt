@@ -1,0 +1,13 @@
+- Carla Joanne G. Bautista
+- Our Lady of Fatima University - Antipolo Campus
+- more knowledge does not makes us any better than others
+- none
+- Basics Steps on pushing and pulling a changes 
+    + GIT ADD . 
+    + GIT COMMIT 
+    + GIT PULL 
+    + FIX CONFLICT IF MERON 
+    + GIT ADD .
+    + GIT COMMIT 
+    + GIT PUSH 
+
