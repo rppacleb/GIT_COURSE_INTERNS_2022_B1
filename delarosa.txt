@@ -1,0 +1,14 @@
+Name:       Clarisse M. Dela Rosa
+School :    Our Lady of Fatima University - Antipolo
+Motto:      "Success is not final; failure is not fatal: It is the courage to continue that counts."
+Talent:     Dancing
+
+Basic Steps:
+
+1. git add . in your bash to add all the files to the given folder.
+2. git commit - which adds the change to the local repository.
+3. git pull - to fetch and download content from a remote repository and immediately update the local repository.
+4. fix conflict if occur
+5. git add .
+6. git commit
+7. git push
