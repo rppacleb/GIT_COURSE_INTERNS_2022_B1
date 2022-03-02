@@ -15,8 +15,12 @@ THE BASIC STEPS ON PUSHING AND PULLING A CHANGES
 3. git commit -m 'Edited'
 4. git push
 -WHEN CHALLANGES OCCURS- 
-1. git pull
-2. fix conflict if OCCURS
-3. git add .
-4. git commit -m 'fixed problems'
-5. git push
+1. git add.
+2. git commit -m 'add'
+3. git push
+4. problems occurs
+5. git pull
+6. fix conflict 
+7. git add .
+8. git commit -m 'fixed problems'
+9. git push
