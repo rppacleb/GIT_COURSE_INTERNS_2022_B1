@@ -1,0 +1,8 @@
+Rogeline Grace L. Jutie
+Our Lady of Fatima
+There is hope
+sleep
+
+ steps
+  git add, git commit, git pull, fix conflict if occur, git add . , git commit, git push
+  
