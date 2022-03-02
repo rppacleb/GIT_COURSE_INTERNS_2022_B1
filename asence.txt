@@ -3,6 +3,9 @@ Our Lady of Fatima University - Antipolo Campus
 "Time is Gold"
 Dancing Singing
 Basic steps on pushing and pulling a changes and steps when a conflict occur
--pushing is when you want to upload your current project or current file that you are editing
-to github and pulling is when you want to download the project and you want it to be updated or
-have the updated changes that the other developers made.
+git status
+git add
+git commit -m 'Message/Changes made'
+
+git push = upload repository
+git pull = download repo
