@@ -1,5 +1,22 @@
-Paul Brian V. Tungpalan
-Our Lady of Fatima University
-No ID No Entry
-Push - GIT ADD, GIT COMMIT - M '', GIT Push
-Pull - GIT ADD, GIT COMMIT - M '', GIT Pull
+Name: Paul Brian V. Tungpalan
+School: Our Lady of Fatima University
+Motto: Time is Gold
+Talent: Playing Basketball, Valorant and Guitar 
+
+THE BASIC STEPS ON PUSHING AND PULLING A CHANGES
+-PUSHING-
+1. git status
+2. git add .
+3. git commit -m 'Added'
+4. git push
+-PULLING-
+1. git pull
+2. git add
+3. git commit -m 'Edited'
+4. git push
+-WHEN CHALLANGES OCCURS- 
+1. git pull
+2. fix conflict if OCCURS
+3. git add .
+4. git commit -m 'fixed problems'
+5. git push
