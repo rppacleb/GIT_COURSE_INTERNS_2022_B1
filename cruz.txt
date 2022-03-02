@@ -1,0 +1,14 @@
+Name: John Louie Cruz
+School: Our Lady of Fatima University - Antipolo
+Motto: Dream it and make it happen
+Talent: Mag pasaya ng iba
+
+BASIC STEPS:
+    Step 1: git add .
+    Step 2: git commit -m ''
+    Step 3: git pull (so that we can get updates to other devs)
+    Step 4: fix conflict if occur (decide changes with your team)
+    Step 5: git add .
+    Step 6: git commit -m ''
+    Step 7: git push
+    
