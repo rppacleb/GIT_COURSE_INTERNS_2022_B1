@@ -1,0 +1,8 @@
+Complete Name: Ian L. Delos Reyes
+School: Our Lady of Fatima University Antipolo
+Motto: Aanhin mo ang malapit kung nasa malayo naman ang totoong pag-ibig
+Talent: Playing guitar
+Basics steps on pushing and pulling a changes when a conflict occur: 
+step 1: open it and make any modifications that are required
+step 2: We can use the git add a command to stage the new merged content after we have edited the file
+step 3: The final step is to use the git commit command to create a new commit.
