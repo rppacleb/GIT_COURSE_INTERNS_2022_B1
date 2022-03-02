@@ -1,0 +1,12 @@
+Ina Isabel Capatoy
+JOSE RIZAL UNIVERSITY
+TO LEARN TO SUCCEED, YOU MUST FIRST LEARN TO FAIL.
+GUITAR
+1. git add .
+2. git commit -m ' '
+3. git pull
+4. fix conflict
+5. git add .
+6. git commit -m ''
+7. gut push
+
