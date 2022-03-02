@@ -1,0 +1,11 @@
+ERLWIN JEROME DE GUZMAN ASENCE
+Our Lady of Fatima University - Antipolo Campus
+"Time is Gold"
+Dancing Singing
+Basic steps on pushing and pulling a changes and steps when a conflict occur
+git status
+git add
+git commit -m 'Message/Changes made'
+
+git push = upload repository
+git pull = download repo
