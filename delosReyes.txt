@@ -3,6 +3,19 @@ School: Our Lady of Fatima University Antipolo
 Motto: Aanhin mo ang malapit kung nasa malayo naman ang totoong pag-ibig
 Talent: Playing guitar
 Basics steps on pushing and pulling a changes when a conflict occur: 
+<pushing>
+step 1. git status
+step 2. git add . 
+step 3. git commit m- 'Added'
+step 4. git push
+
+<pulling>
+step 1. git pull
+step 2. git add 
+step 3. git commit -m 'Edited'
+step 4. git push
+
+<when conflict>
 step 1: open it and make any modifications that are required
 step 2: We can use the git add a command to stage the new merged content after we have edited the file
 step 3: The final step is to use the git commit command to create a new commit.
