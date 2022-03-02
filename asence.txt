@@ -2,10 +2,11 @@ ERLWIN JEROME DE GUZMAN ASENCE
 Our Lady of Fatima University - Antipolo Campus
 "Time is Gold"
 Dancing Singing
-Basic steps on pushing and pulling a changes and steps when a conflict occur
-git status
-git add
-git commit -m 'Message/Changes made'
 
-git push = upload repository
-git pull = download repo
+Basic steps on pushing and pulling a changes and steps when a conflict occur
+    STEP 1: git pull (para makuha yung updated na changes made by other devs)
+    STEP 2: git add .
+    STEP 3: git commit -m '(Message/Changes Made)'
+    STEP 4: git push 
+
+    fix conflict talk with other devs if what the team will accept incoming/current changes etc.
