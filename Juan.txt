@@ -1,0 +1,12 @@
+EUNICE PSYCHE E. JUAN
+OUR LADY OF FATIMA UNIVERSITY ANTIPOLO
+MOTTO: "A NEGATIVE MIND WILL NEVER GIVE YOU A POSITIVE LIFE"
+TALENT: SINGING
+Pull and Push
+1. Git Add . 
+2. Git Commit
+3. Git Pull
+4. Git Conflict if occur
+5. Git Add . 
+6. Git Commit
+7. Git push
