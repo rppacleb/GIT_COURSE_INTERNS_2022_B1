@@ -4,9 +4,16 @@ Our Lady of Fatima University - Antipolo Campus
 Dancing Singing
 
 Basic steps on pushing and pulling a changes and steps when a conflict occur
+PUSHING
+    STEP 1. git status
+    STEP 2. git add . 
+    STEP 3. git commit m- 'Added File'
+    STEP 4. git push
+
+PULLING
     STEP 1: git pull (para makuha yung updated na changes made by other devs)
     STEP 2: git add .
     STEP 3: git commit -m '(Message/Changes Made)'
     STEP 4: git push 
 
-    fix conflict talk with other devs if what the team will accept incoming/current changes etc.
+Fix conflict talk with other devs if what the team will accept incoming/current changes etc.
